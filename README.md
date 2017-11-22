@@ -1,2 +1,2 @@
 # sqlgateway
-MySQL balancer for fun
+MySQL load balancer for fun
